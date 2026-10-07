@@ -1,0 +1,17 @@
+listing_id,title,status,price,price_period,bedrooms,bathrooms,area_sqft,property_type,address,city,postal_code,agent,listing_url,scraped_at
+nl-1006,,rent,2450.0,monthly,2.0,2.0,980.0,apartment,,Austin,,Nestly Property Mgmt,https://scrapifydatalabs.com/playground/nestly/home-nl-1006,2026-10-07T04:18:41.374611+00:00
+nl-1011,,rent,3200.0,monthly,3.0,2.0,1500.0,single_family,,Austin,,Nestly Property Mgmt,https://scrapifydatalabs.com/playground/nestly/home-nl-1011,2026-10-07T04:18:41.375625+00:00
+nl-1015,,sale,175000.0,monthly,3.0,2.0,1210.0,manufactured,,Austin,,Capitol Nest Group,https://scrapifydatalabs.com/playground/nestly/home-nl-1015,2026-10-07T04:18:41.376523+00:00
+nl-1008,,sale,299000.0,monthly,1.0,1.0,712.0,condo,,Austin,,Capitol Nest Group,https://scrapifydatalabs.com/playground/nestly/home-nl-1008,2026-10-07T04:18:41.375016+00:00
+nl-1007,,sale,389000.0,sale,3.0,2.0,1410.0,single_family,,Austin,,Eastside Nestly,https://scrapifydatalabs.com/playground/nestly/home-nl-1007,2026-10-07T04:18:41.374808+00:00
+nl-1002,,sale,419000.0,monthly,2.0,2.0,1045.0,condo,,Austin,,Capitol Nest Group,https://scrapifydatalabs.com/playground/nestly/home-nl-1002,2026-10-07T04:18:41.373763+00:00
+nl-1013,,sale,459000.0,sale,3.0,2.0,1522.0,single_family,,Austin,,North Nestly Homes,https://scrapifydatalabs.com/playground/nestly/home-nl-1013,2026-10-07T04:18:41.376020+00:00
+nl-1004,,sale,512000.0,monthly,3.0,2.5,1720.0,townhouse,,Austin,,Eastside Nestly,https://scrapifydatalabs.com/playground/nestly/home-nl-1004,2026-10-07T04:18:41.374212+00:00
+nl-1010,,pending,535000.0,sale,3.0,2.0,1595.0,single_family,,Austin,,Nestly Premier Realty,https://scrapifydatalabs.com/playground/nestly/home-nl-1010,2026-10-07T04:18:41.375428+00:00
+nl-1016,,sale,589000.0,sale,4.0,2.0,1890.0,single_family,,Austin,,South Austin Estates,https://scrapifydatalabs.com/playground/nestly/home-nl-1016,2026-10-07T04:18:41.376757+00:00
+nl-1001,,sale,625000.0,sale,3.0,2.0,1680.0,single_family,,Austin,,Nestly Premier Realty,https://scrapifydatalabs.com/playground/nestly/home-nl-1001,2026-10-07T04:18:41.373468+00:00
+nl-1009,,sale,749000.0,monthly,4.0,3.0,2288.0,single_family,,Austin,,Nestly Premier Realty,https://scrapifydatalabs.com/playground/nestly/home-nl-1009,2026-10-07T04:18:41.375219+00:00
+nl-1003,,pending,875000.0,monthly,4.0,3.0,2450.0,single_family,,Austin,,Nestly Premier Realty,https://scrapifydatalabs.com/playground/nestly/home-nl-1003,2026-10-07T04:18:41.373987+00:00
+nl-1012,,sale,895000.0,sale,6.0,4.0,2800.0,multi_family,,Austin,,Eastside Nestly,https://scrapifydatalabs.com/playground/nestly/home-nl-1012,2026-10-07T04:18:41.375826+00:00
+nl-1005,,sale,1149000.0,sale,5.0,4.0,3210.0,single_family,,Austin,,South Austin Estates,https://scrapifydatalabs.com/playground/nestly/home-nl-1005,2026-10-07T04:18:41.374415+00:00
+nl-1014,,sale,2150000.0,monthly,5.0,5.5,4820.0,single_family,,Austin,,Nestly Premier Realty,https://scrapifydatalabs.com/playground/nestly/home-nl-1014,2026-10-07T04:18:41.376222+00:00
